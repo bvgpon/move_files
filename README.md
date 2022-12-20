@@ -1,4 +1,4 @@
-#Program to move selected files from one folder to another
+#Program to select files based on file names and move it to a desired folder
 
 ## Prerequisite
 
